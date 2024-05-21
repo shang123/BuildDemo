@@ -1,0 +1,3 @@
+rootProject.name = "BuildDemo"
+include ':app'
+include ':MvvmRoot'
